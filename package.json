@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bronzeowl/mongoScraper.git"
+    "url": "git+https://github.com/bdz101/mongoScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bronzeowl/mongoScraper/issues"
+    "url": "https://github.com/bdz101/mongoScraper/issues"
   },
-  "homepage": "https://github.com/Bronzeowl/mongoScraper#readme",
+  "homepage": "https://github.com/bdz101/mongoScraper#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "cheerio": "^1.0.0-rc.2",
